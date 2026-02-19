@@ -1,21 +1,22 @@
-# EEG Signal Analysis – Seizure vs Non-Seizure Patterns
+# Mental Health & Behavioral Patterns
 
 ## Overview
-This project investigates differences between epileptic seizure and non-seizure EEG segments using interpretable signal-based features.
+This project explores relationships between sleep, academic pressure, and mental health-related variables using a publicly available survey dataset.
 
 ## Objectives
-- Work with labeled EEG segments
-- Extract time-domain and frequency-domain features
-- Compare signal characteristics between conditions
+- Examine patterns related to sleep and stress-related factors
+- Perform data cleaning and exploratory data analysis (EDA)
+- Visualize key relationships and distributions
 
 ## Methods
-EEG segments were analyzed using feature-based approaches, including measures of signal variability and spectral properties.
+The analysis was conducted using Python in Jupyter Notebook.  
+Key steps included data preparation, variable inspection, descriptive analysis, and visualization.
 
 ## Tools & Libraries
 - Python
-- Pandas / NumPy / SciPy
+- Pandas
 - Matplotlib / Seaborn
 - Jupyter Notebook
 
 ## Key Takeaway
-This analysis highlights experience with structured datasets, feature extraction, visualization, and research-oriented data interpretation.
+The project demonstrates practical experience in data cleaning, exploratory analysis, and communicating findings through visualizations.
